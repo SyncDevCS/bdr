@@ -1,0 +1,15 @@
+pyautogui
+requests
+opencv-python
+uuid
+keyboard
+discord
+discord.py
+sounddevice
+wave
+pywin32
+cryptography
+pycryptodomex
+winotify
+numpy
+psutil
